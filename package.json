@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushikaW/NodeApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kaushikaW/NodeApp/issues"
+  },
+  "homepage": "https://github.com/kaushikaW/NodeApp#readme",
+  "description": ""
 }
